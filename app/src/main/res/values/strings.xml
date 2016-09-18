@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registro">registro</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_nfcbeamcall">NFCbeamcall</string>
+    <string name="title_activity_propiedades">Propiedades</string>
+    <string name="title_activity_login_paciente">LoginPaciente</string>
+    <string name="title_activity_login_doctor">LoginDoctor</string>
+    <string name="title_activity_registro_doctor">RegistroDoctor</string>
+    <string name="title_activity_login_doctor2">LoginDoctor2</string>
+</resources>
